@@ -2,8 +2,8 @@
 <search>
   <entry>
     <title><![CDATA[test]]></title>
-    <url>%2F2018%2F09%2F02%2Ftest%2F</url>
-    <content type="text"><![CDATA[略略略]]></content>
+    <url>%2F2018%2F09%2F02%2Faaa%2F</url>
+    <content type="text"><![CDATA[略略]]></content>
       <categories>
         <category>测试分类1</category>
       </categories>
@@ -14,8 +14,8 @@
   </entry>
   <entry>
     <title><![CDATA[test]]></title>
-    <url>%2F2018%2F09%2F02%2Faaa%2F</url>
-    <content type="text"><![CDATA[略略]]></content>
+    <url>%2F2018%2F09%2F02%2Ftest%2F</url>
+    <content type="text"><![CDATA[略略略]]></content>
       <categories>
         <category>测试分类1</category>
       </categories>
